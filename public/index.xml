@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>My u2b.dev Site</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on My u2b.dev Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 09 Apr 2024 05:20:20 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post Tst 01</title>
+      <link>http://localhost:1313/posts/my-first-post-tst-01/</link>
+      <pubDate>Tue, 09 Apr 2024 05:20:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post-tst-01/</guid>
+      <description>this is header 1 - Introduction this is header 2 this is header 3 Below is the list:&#xA;lorem ipsum sdfgsth sdfhsdgfh sdfsdfgh This is a link to hugo site!&#xA;This is bold text, and this is emphasized text.</description>
+    </item>
   </channel>
 </rss>
